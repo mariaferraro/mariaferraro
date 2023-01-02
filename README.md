@@ -15,3 +15,11 @@ I am María and I am a Systems Engineer, I am a Front End Web developer, using H
 ❤️ I am passionate about web development and bringing designs to life. I love creating engaging user experiences and am always excited to tackle new challenges. 
 
 📍 My dream is to be a digital nomad one day and work with different views of the world.
+
+### Follow me
+<ul>
+  <li>[Linkedin](https://www.linkedin.com/in/mariacferraro/)</li>
+  <li>[Facebook](https://www.facebook.com/mariaferrarocom)</li>
+  <li>[YouTube](https://www.youtube.com/c/mariaferraro)</li>
+  <li>[Instagram](https://www.instagram.com/esmariaferraro/)</li>
+  </ul>
