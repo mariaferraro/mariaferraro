@@ -18,8 +18,8 @@ I am María and I am a Systems Engineer, I am a Front End Web developer, using H
 
 ### Follow me
 <ul>
-  <li>[Linkedin](https://www.linkedin.com/in/mariacferraro/)</li>
-  <li>[Facebook](https://www.facebook.com/mariaferrarocom)</li>
-  <li>[YouTube](https://www.youtube.com/c/mariaferraro)</li>
-  <li>[Instagram](https://www.instagram.com/esmariaferraro/)</li>
+  <li><a href="https://www.linkedin.com/in/mariacferraro/" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
+  <li><a href="https://www.facebook.com/mariaferrarocom" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+  <li><a href="https://www.youtube.com/c/mariaferraro" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+  <li><a href="https://www.instagram.com/esmariaferraro/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
   </ul>
